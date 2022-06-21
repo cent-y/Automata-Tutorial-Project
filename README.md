@@ -1,5 +1,3 @@
-# Automata-Tutorial-Project
-
 How to run the app:
 
 Method 1
